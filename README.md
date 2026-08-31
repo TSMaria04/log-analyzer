@@ -28,3 +28,9 @@ CLI-инструмент на Python для автоматизированног
    ```bash
    git clone [https://github.com/TSMaria04/log-analyzer.git](https://github.com/TSMaria04/log-analyzer.git)
    cd log-analyzer
+2. **Установите зависимости:**
+   ```bash
+   pip install colorama
+3. **Запустите анализатор:**
+   ```bash
+   python analyzer.py
